@@ -1,0 +1,33 @@
+{
+  "name": "datepicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "_should-util@1.0.0@should-util": "^1.0.0",
+    "normalize.css": "^7.0.0",
+    "_normalize.css@7.0.0@normalize.css": "^7.0.0",
+    "_should-format@3.0.3@should-format": "^3.0.3",
+    "_should-type-adaptors@1.0.1@should-type-adaptors": "^1.0.1",
+    "should-format": "^3.0.3",
+    "should-type-adaptors": "^1.0.1",
+    "_should@13.1.0@should": "^13.1.0",
+    "should": "^13.1.0",
+    "should-util": "^1.0.0",
+    "should-equal": "^2.0.0",
+    "_should-equal@2.0.0@should-equal": "^2.0.0",
+    "_should-type@1.4.0@should-type": "^1.4.0",
+    "should-type": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "stylus:watch": "stylus -w -m styl/ -o css/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
